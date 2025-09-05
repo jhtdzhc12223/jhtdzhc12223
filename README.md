@@ -1,54 +1,155 @@
-<!--
-**jhtdzhc12223/jhtdzhc12223** é um repositório ✨ especial ✨ porque seu `README.md` aparecerá no seu perfil do GitHub.
--->
+# 👨‍💻 Gabriel Alves Vieira
 
-<div align="center">
-  
-<!-- Efeito de digitação -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Gabriel+Alves+Vieira;Desenvolvedor+Full-Stack;Analista+de+Dados" alt="Título animado" />
+**`Desenvolvedor FullStack | Ciência de Dados`**
 
-<!-- Badges de redes sociais -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC_XXXXXXXXX">
-    <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_XXXXXXXXX?color=%23E05D44&label=INSCREVA-SE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
-  </a>
-  <a href="https://github.com/jhtdzhc12223?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/jhtdzhc12223?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS" />
-  </a>
-  <a href="https://github.com/jhtdzhc12223?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/jhtdzhc12223?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=SEGUIDORES&logoColor=white" />
-  </a>
+Me chamo Gabriel Alves Vieira, sou desenvolvedor Full-Stack com especialização em JavaScript e análise de dados. Atualmente cursando Desenvolvimento de Sistemas no Colégio Vicente Rijo. Minha abordagem combina lógica de programação com criatividade para resolver problemas complexos e criar experiências digitais impactantes.
+
+<p align="left">
+    <a href="https://github.com/jhtdzhc12223?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jhtdzhc12223?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/jhtdzhc12223?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/jhtdzhc12223?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/gabrielalves9234/">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/Instagram-%40gabrielalves9234-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
 </p>
-
-<!-- Ícones de contato -->
-<p align="center">
-  <a href="mailto:al4726390@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/seuuser/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/gabrielalves9234/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5543996689102">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
-
-</div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 🤖 Linguagens e Tecnologias
 
-```javascript
-const gabriel = {
-  nome: "Gabriel Alves Vieira",
-  idade: 18,
-  localizacao: "Londrina, Paraná",
-  formacao: "Desenvolvimento de Sistemas - Colégio Vicente Rijo",
-  interesses: ["Desenvolvimento Full-Stack", "Análise de Dados", "IA e Machine Learning"],
-  habilidades: ["JavaScript", "Python", "React Native", "Node.js", "HTML/CSS", "Java"],
-  abordagem: "Combinar lógica de programação com criatividade para resolver problemas complexos"
-};
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jhtdzhc12223&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhtdzhc12223&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+---
+
+### 📂 Projetos em Destaque
+
+- [**Lista de Compras**](https://lista-compras-pearl.vercel.app/login.html) - Sistema interativo para gerenciar listas de compras com autenticação
+- [**Portfólio Pessoal**](https://jhtdzhc12223.github.io/Nome/) - Site de portfólio pessoal com informações profissionais
+- [**Repositório GitHub**](https://github.com/jhtdzhc12223) - Coleção de projetos e códigos desenvolvidos
+
+### 📫 Contato
+
+- 📧 E-mail: [al4726390@gmail.com](mailto:al4726390@gmail.com)
+- 📱 Telefone: (43) 99668-9102
+- 📍 Localização: Londrina, Paraná
+- 📷 Instagram: [@gabrielalves9234](https://www.instagram.com/gabrielalves9234/)
+
+---
+
+⭐️ Do repositório [jhtdzhc12223](https://github.com/jhtdzhc12223)
